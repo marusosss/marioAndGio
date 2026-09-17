@@ -20,3 +20,5 @@ public class Main {
                     pos = parole[i].; // devo ottenere il numero in array della lettera dentro parola
         }}
     }
+
+    Ciao Gio
