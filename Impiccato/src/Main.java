@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-
 public class Main {
     public static void main(String[] args) {
 
         Scanner keyboard = new Scanner(System.in);
+        int lives = 5;
 
         String[] parole = {"rottonculo", "agrumi", "arancina", "pisnelo"};
 
@@ -22,3 +22,4 @@ public class Main {
     }
 
     Ciao Gio
+            Ciao sooos
